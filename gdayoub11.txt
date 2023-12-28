@@ -1,9 +1,9 @@
 {
     "ADS": {
-        "banner_type_1": "huawei",
-        "inter_type_1": "huawei",
-        "native_type_1": "huawei",
-        "reward_type_1": "huawei",
+        "banner_type_1": "NO",
+        "inter_type_1": "NO",
+        "native_type_1": "NO",
+        "reward_type_1": "NO",
         "native_or_mrec_1": "native",
         "ironsource_id": "ironsource_id_value",
         "unity_id": "unity_id_value",
